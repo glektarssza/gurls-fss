@@ -1,0 +1,34 @@
+{
+    "name": "@glektarssza/gurls-fss",
+    "description": "A simple but flexible URL shortening and file sharing service.",
+    "version": "0.0.1",
+    "author": {
+        "name": "G'lek Tarssza",
+        "email": "glek@glektarssza.com",
+        "url": "https://glektarssza.com"
+    },
+    "homepage": "https://glektarssza.github.io/gurls-fss",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/glektarssza/gurls-fss.git"
+    },
+    "bugs": {
+        "url": "https://github.com/glektarssza/gurls-fss/issues"
+    },
+    "type": "module",
+    "engines": {
+        "node": "^24.6.0",
+        "pnpm": "^10.15.0"
+    },
+    "engineStrict": true,
+    "packageManager": "pnpm@10.15.1",
+    "directories": {
+        "doc": "./docs/",
+        "example": "./examples/",
+        "lib": "./lib/",
+        "test": "./test/"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+}
