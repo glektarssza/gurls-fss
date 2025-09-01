@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://www.schemastore.org/pnpm-workspace.json
+packages: []
 linkWorkspacePackages: true
 syncInjectedDepsAfterScripts:
   - "@glektarssza/*"
