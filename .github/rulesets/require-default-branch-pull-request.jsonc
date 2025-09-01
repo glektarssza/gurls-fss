@@ -1,7 +1,7 @@
 {
     "name": "Require Updates to Default Branch to be via Merge Pull Requests",
     "target": "branch",
-    "enforcement": "disabled",
+    "enforcement": "active",
     "conditions": {
         "ref_name": {
             "exclude": [],
