@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://www.schemastore.org/pnpm-workspace.json
+linkWorkspacePackages: true
+syncInjectedDepsAfterScripts:
+  - "@glektarssza/*"
+preferWorkspacePackages: true
+includeWorkspaceRoot: true
+ignorePnpmfile: true
